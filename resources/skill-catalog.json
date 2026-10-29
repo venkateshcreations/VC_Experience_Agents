@@ -1,0 +1,500 @@
+{
+  "version": "0.1.0",
+  "skills": [
+    {
+      "id": "experience-orchestrator",
+      "name": "experience-orchestrator",
+      "group": "experience-strategy",
+      "path": "skills/experience-strategy/experience-orchestrator/SKILL.md",
+      "description": "Master orchestrator for the VC experience ecosystem. Routes requests, coordinates specialists, consolidates deliverables.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "product-strategist",
+      "name": "product-strategist",
+      "group": "experience-strategy",
+      "path": "skills/experience-strategy/product-strategist/SKILL.md",
+      "description": "Aligns product decisions with business goals, audience, and measurable outcomes.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "ux-researcher",
+      "name": "ux-researcher",
+      "group": "experience-strategy",
+      "path": "skills/experience-strategy/ux-researcher/SKILL.md",
+      "description": "Plans and synthesizes UX research while distinguishing evidence from hypothesis.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "persona-intelligence",
+      "name": "persona-intelligence",
+      "group": "experience-strategy",
+      "path": "skills/experience-strategy/persona-intelligence/SKILL.md",
+      "description": "Builds evidence-based or clearly labeled hypothetical personas.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "journey-intelligence",
+      "name": "journey-intelligence",
+      "group": "experience-strategy",
+      "path": "skills/experience-strategy/journey-intelligence/SKILL.md",
+      "description": "Maps end-to-end journeys including states, risks, and recovery paths.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "information-architect",
+      "name": "information-architect",
+      "group": "ux-architecture",
+      "path": "skills/ux-architecture/information-architect/SKILL.md",
+      "description": "Structures content, navigation, and findability for complex products.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "interaction-architect",
+      "name": "interaction-architect",
+      "group": "ux-architecture",
+      "path": "skills/ux-architecture/interaction-architect/SKILL.md",
+      "description": "Defines interaction patterns, states, and behavioral rules.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "user-flow-engineer",
+      "name": "user-flow-engineer",
+      "group": "ux-architecture",
+      "path": "skills/ux-architecture/user-flow-engineer/SKILL.md",
+      "description": "Engineers complete user flows with dependencies and edge cases.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "experience-mapper",
+      "name": "experience-mapper",
+      "group": "ux-architecture",
+      "path": "skills/ux-architecture/experience-mapper/SKILL.md",
+      "description": "Maps experiences across channels, devices, and touchpoints.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "visual-design-director",
+      "name": "visual-design-director",
+      "group": "visual-design",
+      "path": "skills/visual-design/visual-design-director/SKILL.md",
+      "description": "Sets visual direction and ensures coherent aesthetic decisions.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "frontend-design-intelligence",
+      "name": "frontend-design-intelligence",
+      "group": "visual-design",
+      "path": "skills/visual-design/frontend-design-intelligence/SKILL.md",
+      "description": "Implements distinctive, usable frontend interfaces without generic patterns.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "layout-composition-expert",
+      "name": "layout-composition-expert",
+      "group": "visual-design",
+      "path": "skills/visual-design/layout-composition-expert/SKILL.md",
+      "description": "Designs layout systems, grids, spacing, and responsive composition.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "typography-intelligence",
+      "name": "typography-intelligence",
+      "group": "visual-design",
+      "path": "skills/visual-design/typography-intelligence/SKILL.md",
+      "description": "Selects and scales typography for readability and hierarchy.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "microinteraction-designer",
+      "name": "microinteraction-designer",
+      "group": "visual-design",
+      "path": "skills/visual-design/microinteraction-designer/SKILL.md",
+      "description": "Designs purposeful microinteractions and motion.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "design-system-architect",
+      "name": "design-system-architect",
+      "group": "design-systems",
+      "path": "skills/design-systems/design-system-architect/SKILL.md",
+      "description": "Architects design systems from existing conventions and needs.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "design-token-engineer",
+      "name": "design-token-engineer",
+      "group": "design-systems",
+      "path": "skills/design-systems/design-token-engineer/SKILL.md",
+      "description": "Defines portable semantic design tokens.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "component-architect",
+      "name": "component-architect",
+      "group": "design-systems",
+      "path": "skills/design-systems/component-architect/SKILL.md",
+      "description": "Defines component contracts, variants, and states.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "component-library-engineer",
+      "name": "component-library-engineer",
+      "group": "design-systems",
+      "path": "skills/design-systems/component-library-engineer/SKILL.md",
+      "description": "Implements reusable component libraries.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "design-system-auditor",
+      "name": "design-system-auditor",
+      "group": "design-systems",
+      "path": "skills/design-systems/design-system-auditor/SKILL.md",
+      "description": "Audits design systems for consistency and drift.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "experience-engineering-lead",
+      "name": "experience-engineering-lead",
+      "group": "experience-engineering",
+      "path": "skills/experience-engineering/experience-engineering-lead/SKILL.md",
+      "description": "Leads end-to-end experience engineering execution.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "design-to-code-engineer",
+      "name": "design-to-code-engineer",
+      "group": "experience-engineering",
+      "path": "skills/experience-engineering/design-to-code-engineer/SKILL.md",
+      "description": "Translates design specs into production-ready code.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "frontend-architecture-engineer",
+      "name": "frontend-architecture-engineer",
+      "group": "experience-engineering",
+      "path": "skills/experience-engineering/frontend-architecture-engineer/SKILL.md",
+      "description": "Designs frontend architecture and module boundaries.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "react-performance-engineer",
+      "name": "react-performance-engineer",
+      "group": "experience-engineering",
+      "path": "skills/experience-engineering/react-performance-engineer/SKILL.md",
+      "description": "Optimizes React rendering and performance.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "prototype-engineer",
+      "name": "prototype-engineer",
+      "group": "experience-engineering",
+      "path": "skills/experience-engineering/prototype-engineer/SKILL.md",
+      "description": "Builds portable prototypes for validation.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "ai-experience-architect",
+      "name": "ai-experience-architect",
+      "group": "ai-native-ux",
+      "path": "skills/ai-native-ux/ai-experience-architect/SKILL.md",
+      "description": "Designs AI-assisted user experiences and trust boundaries.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "agentic-ux-architect",
+      "name": "agentic-ux-architect",
+      "group": "ai-native-ux",
+      "path": "skills/ai-native-ux/agentic-ux-architect/SKILL.md",
+      "description": "Designs multi-agent interfaces and delegation visibility.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "conversation-design-engineer",
+      "name": "conversation-design-engineer",
+      "group": "ai-native-ux",
+      "path": "skills/ai-native-ux/conversation-design-engineer/SKILL.md",
+      "description": "Designs conversational flows and copy.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "human-ai-interaction-specialist",
+      "name": "human-ai-interaction-specialist",
+      "group": "ai-native-ux",
+      "path": "skills/ai-native-ux/human-ai-interaction-specialist/SKILL.md",
+      "description": "Optimizes human-AI collaboration and control.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "accessibility-engineer",
+      "name": "accessibility-engineer",
+      "group": "accessibility",
+      "path": "skills/accessibility/accessibility-engineer/SKILL.md",
+      "description": "Evaluates and fixes accessibility across the stack.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "inclusive-design-specialist",
+      "name": "inclusive-design-specialist",
+      "group": "accessibility",
+      "path": "skills/accessibility/inclusive-design-specialist/SKILL.md",
+      "description": "Ensures inclusive design beyond baseline compliance.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "ux-content-designer",
+      "name": "ux-content-designer",
+      "group": "accessibility",
+      "path": "skills/accessibility/ux-content-designer/SKILL.md",
+      "description": "Crafts clear, accessible UX copy.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "localization-experience-engineer",
+      "name": "localization-experience-engineer",
+      "group": "accessibility",
+      "path": "skills/accessibility/localization-experience-engineer/SKILL.md",
+      "description": "Designs localization-ready experiences.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "ux-critic",
+      "name": "ux-critic",
+      "group": "validation",
+      "path": "skills/validation/ux-critic/SKILL.md",
+      "description": "Critiques UX quality with measurable criteria.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "usability-test-engineer",
+      "name": "usability-test-engineer",
+      "group": "validation",
+      "path": "skills/validation/usability-test-engineer/SKILL.md",
+      "description": "Designs and analyzes usability tests.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "visual-regression-engineer",
+      "name": "visual-regression-engineer",
+      "group": "validation",
+      "path": "skills/validation/visual-regression-engineer/SKILL.md",
+      "description": "Sets up visual regression testing.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "quality-assurance-engineer",
+      "name": "quality-assurance-engineer",
+      "group": "validation",
+      "path": "skills/validation/quality-assurance-engineer/SKILL.md",
+      "description": "Coordinates QA across functional and UX dimensions.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "experience-metrics-analyst",
+      "name": "experience-metrics-analyst",
+      "group": "optimization",
+      "path": "skills/optimization/experience-metrics-analyst/SKILL.md",
+      "description": "Defines and analyzes experience metrics.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "conversion-optimization-specialist",
+      "name": "conversion-optimization-specialist",
+      "group": "optimization",
+      "path": "skills/optimization/conversion-optimization-specialist/SKILL.md",
+      "description": "Optimizes conversion and task completion.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "continuous-improvement-agent",
+      "name": "continuous-improvement-agent",
+      "group": "optimization",
+      "path": "skills/optimization/continuous-improvement-agent/SKILL.md",
+      "description": "Drives continuous improvement loops.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "skill-discovery-curator",
+      "name": "skill-discovery-curator",
+      "group": "delivery",
+      "path": "skills/delivery/skill-discovery-curator/SKILL.md",
+      "description": "Discovers and curates external skills with provenance.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "knowledge-provenance-auditor",
+      "name": "knowledge-provenance-auditor",
+      "group": "delivery",
+      "path": "skills/delivery/knowledge-provenance-auditor/SKILL.md",
+      "description": "Audits provenance and attribution of knowledge.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "experience-documentation-engineer",
+      "name": "experience-documentation-engineer",
+      "group": "delivery",
+      "path": "skills/delivery/experience-documentation-engineer/SKILL.md",
+      "description": "Produces engineering handoff documentation.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "release-readiness-auditor",
+      "name": "release-readiness-auditor",
+      "group": "delivery",
+      "path": "skills/delivery/release-readiness-auditor/SKILL.md",
+      "description": "Audits release readiness and risks.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "navigation-designer",
+      "name": "navigation-designer",
+      "group": "ux-architecture",
+      "path": "skills/ux-architecture/navigation-designer/SKILL.md",
+      "description": "Designs scalable navigation and wayfinding systems.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "search-experience-engineer",
+      "name": "search-experience-engineer",
+      "group": "ux-architecture",
+      "path": "skills/ux-architecture/search-experience-engineer/SKILL.md",
+      "description": "Designs search, filtering, and result experiences.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "data-visualization-designer",
+      "name": "data-visualization-designer",
+      "group": "visual-design",
+      "path": "skills/visual-design/data-visualization-designer/SKILL.md",
+      "description": "Designs clear, honest data visualizations.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "motion-design-engineer",
+      "name": "motion-design-engineer",
+      "group": "visual-design",
+      "path": "skills/visual-design/motion-design-engineer/SKILL.md",
+      "description": "Engineers purposeful motion and transitions.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "theming-engineer",
+      "name": "theming-engineer",
+      "group": "design-systems",
+      "path": "skills/design-systems/theming-engineer/SKILL.md",
+      "description": "Implements multi-theme and brand theming.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "form-ux-engineer",
+      "name": "form-ux-engineer",
+      "group": "experience-engineering",
+      "path": "skills/experience-engineering/form-ux-engineer/SKILL.md",
+      "description": "Designs robust form UX and validation.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "onboarding-experience-engineer",
+      "name": "onboarding-experience-engineer",
+      "group": "experience-engineering",
+      "path": "skills/experience-engineering/onboarding-experience-engineer/SKILL.md",
+      "description": "Designs onboarding and activation flows.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "prompt-ux-engineer",
+      "name": "prompt-ux-engineer",
+      "group": "ai-native-ux",
+      "path": "skills/ai-native-ux/prompt-ux-engineer/SKILL.md",
+      "description": "Designs prompt inputs and AI interaction affordances.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "cognitive-accessibility-specialist",
+      "name": "cognitive-accessibility-specialist",
+      "group": "accessibility",
+      "path": "skills/accessibility/cognitive-accessibility-specialist/SKILL.md",
+      "description": "Addresses cognitive accessibility and clarity.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "experiment-designer",
+      "name": "experiment-designer",
+      "group": "validation",
+      "path": "skills/validation/experiment-designer/SKILL.md",
+      "description": "Designs A/B and multivariate experiments.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "analytics-instrumentation-engineer",
+      "name": "analytics-instrumentation-engineer",
+      "group": "optimization",
+      "path": "skills/optimization/analytics-instrumentation-engineer/SKILL.md",
+      "description": "Designs analytics event schemas and instrumentation.",
+      "license": "MIT",
+      "source": "original"
+    },
+    {
+      "id": "design-handoff-engineer",
+      "name": "design-handoff-engineer",
+      "group": "delivery",
+      "path": "skills/delivery/design-handoff-engineer/SKILL.md",
+      "description": "Produces precise design-to-engineering handoff.",
+      "license": "MIT",
+      "source": "original"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+sources:
+  - id: skills-sh
+    name: skills.sh
+    url: https://skills.sh
+    type: registry
+    status: inspected
+    last_checked: 2026-10-29
+    notes: Agent skills directory; 1500+ skills; multiple agents supported.
+  - id: anthropics-skills
+    name: anthropics/skills
+    url: https://github.com/anthropics/skills
+    type: repository
+    status: inspected
+    last_checked: 2026-10-29
+    license: Apache-2.0 (many), source-available (docx/pdf/pptx/xlsx)
+    notes: Reference implementation of Agent Skills standard.
+  - id: vercel-agent-skills
+    name: vercel-labs/agent-skills
+    url: https://github.com/vercel-labs/agent-skills
+    type: repository
+    status: referenced
+    last_checked: 2026-10-29
+    notes: Web interface guidelines, React best practices.
+  - id: tranz-ux-skills
+    name: Tranz007/ux-skills
+    url: https://github.com/Tranz007/ux-skills
+    type: repository
+    status: referenced
+    last_checked: 2026-10-29
+  - id: dragonoasis-open-design-agent
+    name: dragonoasis/open-design-agent
+    url: https://github.com/dragonoasis/open-design-agent
+    type: repository
+    status: referenced
+    last_checked: 2026-10-29
+  - id: designer-skills
+    name: owl-listener/designer-skills
+    url: https://github.com/owl-listener/designer-skills
+    type: repository
+    status: referenced
+    last_checked: 2026-10-29
+  - id: designagentlab-skills
+    name: designagentlab/skills
+    url: https://github.com/designagentlab/skills
+    type: repository
+    status: referenced
+    last_checked: 2026-10-29
+  - id: web-interface-guidelines
+    name: vercel-labs/web-interface-guidelines
+    url: https://github.com/vercel-labs/web-interface-guidelines
+    type: repository
+    status: referenced
+    last_checked: 2026-10-29
+  - id: agentskills-spec
+    name: Agent Skills specification
+    url: https://agentskills.io
+    type: standard
+    status: referenced
+    last_checked: 2026-10-29
+  - id: wcag
+    name: W3C WCAG
+    url: https://www.w3.org/WAI/standards-guidelines/wcag/
+    type: standard
+    status: referenced
+    last_checked: 2026-10-29
+coverage_gaps:
+  - "Many additional repositories not yet inspected; discovery is extensible."
+  - "No automated registry crawling implemented yet."

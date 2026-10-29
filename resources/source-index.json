@@ -1,0 +1,7 @@
+{
+  "version": "0.1.0",
+  "resources": [
+    {"id":"vc-experience-agents","name":"VC_Experience_Agents","type":"project","url":"local","license":"MIT"}
+  ],
+  "last_updated": "2026-10-29"
+}
